@@ -5,6 +5,8 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcossilva8428&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossilva8428)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que uso no dia-a-dia
 
