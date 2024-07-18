@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossilva8428)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tecnologias que uso no dia-a-dia
+## Tecnologias que uso no dia-a-dia de trabalho
 
 
 <div style="display: inline_block"><br/>
